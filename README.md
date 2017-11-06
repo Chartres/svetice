@@ -1,2 +1,2 @@
 # svetice
-home stuff
+svetice stuff
